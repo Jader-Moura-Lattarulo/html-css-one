@@ -1,14 +1,17 @@
-body {
-  background-color: black;
-  color: #F6F6F6;
+* {
 }
 
-strong {
-    color: #22d4fd;
+body {
+  background-color: black;
+  color: #f6f6f6;
+}
+
+.highlight-title {
+  color: #22d4fd;
 }
 
 div {
-    width: 615px;
-    height: 482px;
-    float: left;
+  width: 615px;
+  height: 482px;
+  float: left;
 }
