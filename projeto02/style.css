@@ -1,4 +1,14 @@
+body {
+  background-color: black;
+  color: #F6F6F6;
+}
+
+strong {
+    color: #22d4fd;
+}
+
 div {
-    height: 615px;
-    width: 482px;
+    width: 615px;
+    height: 482px;
+    float: left;
 }
