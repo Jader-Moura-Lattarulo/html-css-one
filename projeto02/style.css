@@ -15,11 +15,9 @@ body {
 }
 
 .apresentation {
-    display: flex;
+  display: flex;
 }
 
-div {
-  width: 615px;
-  height: 482px;
-  box-sizing: border-box;
-}
+/*div {
+
+}*/
