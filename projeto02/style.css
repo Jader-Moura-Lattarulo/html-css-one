@@ -16,6 +16,8 @@ body {
 
 .apresentation {
   display: flex;
+  align-items: center;
+  
 }
 
 /*div {
