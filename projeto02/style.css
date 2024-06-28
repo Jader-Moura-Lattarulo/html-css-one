@@ -17,7 +17,7 @@ body {
 }
 
 .apresentation {
-  margin: 10%;
+  margin: 10% 15%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -25,7 +25,9 @@ body {
 
 .apresentation__leftContent {
   width: 615px;
-  height: 482px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
 }
 
 .apresentation__leftContent__title {
@@ -55,4 +57,11 @@ body {
   font-size: 24px;
   padding: 21.5px 0;
   text-decoration: none;
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.apresentation__photos__photo {
+  border-radius: 16px;
 }
