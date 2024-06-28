@@ -6,7 +6,6 @@
 }
 
 body {
-  height: 100vh;
   box-sizing: border-box;
   background-color: black;
   color: #f6f6f6;
@@ -17,7 +16,7 @@ body {
 }
 
 .apresentation {
-  margin: 10% 15%;
+  padding: 8% 15%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -81,4 +80,14 @@ body {
 
 .apresentation__photos__photo {
   border-radius: 8px;
+}
+
+.footer-content {
+  padding: 24px;
+  color: #000000;
+  background: #22d4fd;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
 }
