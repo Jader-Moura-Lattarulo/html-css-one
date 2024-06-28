@@ -59,6 +59,10 @@ body {
 }
 
 .apresentation__links__link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
   border: 2px solid #22d4fd;
   width: 381px;
   text-align: center;
@@ -69,6 +73,10 @@ body {
   color: #f6f6f6;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
+}
+
+.apresentation__links__link:hover {
+  background-color: #272727;
 }
 
 .apresentation__photos__photo {
