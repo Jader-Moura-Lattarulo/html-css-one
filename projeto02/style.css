@@ -20,3 +20,15 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+
+.apresentation__leftContent {
+  width: 615px;
+  height: 482px;
+}
+
+.apresentation__leftContent__title {
+  font-size: 36px;
+}
+.apresentation__leftContent__text {
+  font-size: 24px;
+}
