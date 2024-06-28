@@ -36,8 +36,13 @@ body {
 }
 .apresentation__leftContent__text {
   font-size: 24px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+.aresentation__links {
+  display: flex;
+  justify-content: space-between;
 }
