@@ -33,7 +33,7 @@ body {
 .header-content__menu__link {
   font-family: var(--secoundary-font);
   text-decoration: none;
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: 600;
   color: var(--tertiary-color);
 }
@@ -45,15 +45,15 @@ body {
   justify-content: space-between;
 }
 
-.apresentation__leftContent {
+.apresentation__Content {
   width: 615px;
   display: flex;
   flex-direction: column;
   gap: 40px;
 }
 
-.apresentation__leftContent__title {
-  font-size: 36px;
+.apresentation__Content__title {
+  font-size: 2.25rem;
   font-family: var(--primary-font);
   font-weight: 400;
   font-style: normal;
@@ -63,8 +63,8 @@ body {
   color: var(--tertiary-color);
 }
 
-.apresentation__leftContent__text {
-  font-size: 24px;
+.apresentation__Content__text {
+  font-size: 1.5rem;
   font-family: var(--secoundary-font);
   font-optical-sizing: auto;
   font-weight: 400;
@@ -82,7 +82,7 @@ body {
 .apresentation__links__subtitle {
   font-family: var(--primary-font);
   font-weight: 400;
-  font-size: 24px;
+  font-size: 1.5rem;
 }
 
 .apresentation__links__link {
@@ -94,7 +94,7 @@ body {
   width: 381px;
   text-align: center;
   border-radius: 8px;
-  font-size: 24px;
+  font-size: 1.5rem;
   padding: 21.5px 0;
   text-decoration: none;
   color: var(--secondary-color);
@@ -117,6 +117,6 @@ body {
   background: var(--tertiary-color);
   text-align: center;
   font-family: var(--secoundary-font);
-  font-size: 24px;
+  font-size: 1.55rem;
   font-weight: 400;
 }
