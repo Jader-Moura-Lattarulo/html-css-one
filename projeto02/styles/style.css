@@ -134,5 +134,10 @@ body {
 
   .apresentation {
     flex-direction: column-reverse;
+    padding: 5%;
+  }
+
+  .apresentation__Content {
+    width: auto;
   }
 }
